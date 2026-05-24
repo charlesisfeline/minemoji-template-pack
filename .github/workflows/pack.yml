@@ -39,7 +39,7 @@ jobs:
             --input-directory ./assets/
             --output-directory ./site/${PACK_NAME}
             --prefix ${PACK_NAME}
-            --pack-url $(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url')${PACK_NAME}.zip
+            --pack-url https://charlesisfeline.github.io/minemoji-template-pack/${PACK_NAME}.zip
             --zip-pack
         - name: serve example json
           run: cp ./site/${PACK_NAME}/${PACK_NAME}.json ./site/${PACK_NAME}.json
