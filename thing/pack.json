@@ -1,0 +1,416 @@
+{
+  "prefix": "minemoji",
+  "packVersion": 1,
+  "url": "https://github.com/charlesisfeline/minemoji-template-pack/raw/refs/heads/master/fcsmp-emoji-pack.zip",
+  "serveToClient": true,
+  "emojis": [
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "true",
+      "resource": "minemoji/true"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "false",
+      "resource": "minemoji/false"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "wawa",
+      "resource": "minemoji/wawa"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "sheetz",
+      "resource": "minemoji/sheetz"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "hundrec_eyes",
+      "resource": "minemoji/hundrec_eyes"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "hundrec_eyes_old",
+      "resource": "minemoji/hundrec_eyes_old"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "ivebeenabadbrother",
+      "resource": "minemoji/ivebeenabadbrother"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "maybe",
+      "resource": "minemoji/maybe"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "jigsaw",
+      "resource": "minemoji/jigsaw"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "jigsaw_tweaking",
+      "resource": "minemoji/jigsaw_tweaking"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "chud",
+      "resource": "minemoji/chud"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "ugh",
+      "resource": "minemoji/ugh"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "omg_bruh",
+      "resource": "minemoji/omg_bruh"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "trollface",
+      "resource": "minemoji/trollface"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gurt_eyes",
+      "resource": "minemoji/gurt_eyes"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatthecrying",
+      "resource": "minemoji/whatthecrying"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whattheshit",
+      "resource": "minemoji/whattheshit"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatthehappy",
+      "resource": "minemoji/whatthehappy"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatthemad",
+      "resource": "minemoji/whatthemad"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "praycat",
+      "resource": "minemoji/praycat"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "samurai",
+      "resource": "minemoji/samurai"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gurt",
+      "resource": "minemoji/gurt"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "fear",
+      "resource": "minemoji/fear"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "waving_tole",
+      "resource": "minemoji/waving_tole"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "nothyper474",
+      "resource": "minemoji/nothyper474"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatthefuck",
+      "resource": "minemoji/whatthefuck"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "keoiki",
+      "resource": "minemoji/keoiki"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "ishowspeed",
+      "resource": "minemoji/ishowspeed"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "iseeyou",
+      "resource": "minemoji/iseeyou"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "ishowcoffer",
+      "resource": "minemoji/ishowcoffer"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "waving_tole",
+      "resource": "minemoji/waving_tole"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "haxeui",
+      "resource": "minemoji/haxeui"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "krue",
+      "resource": "minemoji/krue"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "kralse",
+      "resource": "minemoji/kralse"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "coincoffer",
+      "resource": "minemoji/coincoffer"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "loss",
+      "resource": "minemoji/loss"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "perhaps",
+      "resource": "minemoji/perhaps"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "popoga",
+      "resource": "minemoji/popoga"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "tbh_cry",
+      "resource": "minemoji/tbh_cry"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "grlfrn",
+      "resource": "minemoji/grlfrn"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "insomniac",
+      "resource": "minemoji/insomniac"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "areyousure",
+      "resource": "minemoji/areyousure"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "death",
+      "resource": "minemoji/death"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "bfsmug",
+      "resource": "minemoji/bfsmug"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gf_wtf",
+      "resource": "minemoji/gf_wtf"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whydogssitfacingawayfromyou",
+      "resource": "minemoji/whydogssitfacingawayfromyou"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "relaxedafraidthreatenedalert",
+      "resource": "minemoji/relaxedafraidthreatenedalert"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatsyourproblem",
+      "resource": "minemoji/whatsyourproblem"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gf_wtf",
+      "resource": "minemoji/gf_wtf"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "right",
+      "resource": "minemoji/right"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "wrong",
+      "resource": "minemoji/wrong"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "whatthejolly",
+      "resource": "minemoji/whatthejolly"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "DUDE_WHAT",
+      "resource": "minemoji/DUDE_WHAT"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "DUDE_WHATTHEFUCK",
+      "resource": "minemoji/DUDE_WHATTHEFUCK"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "DUDE_PURPLE",
+      "resource": "minemoji/DUDE_PURPLE"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "5dchess",
+      "resource": "minemoji/5dchess"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "null",
+      "resource": "minemoji/null"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "BFtroll",
+      "resource": "minemoji/bftroll"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gf_smort",
+      "resource": "minemoji/gf_smort"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "gf_mad",
+      "resource": "minemoji/gf_mad"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "same",
+      "resource": "minemoji/same"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "droool",
+      "resource": "minemoji/droool"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "bleh",
+      "resource": "minemoji/bleh"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "bleh",
+      "resource": "minemoji/bleh"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "imaybestupid",
+      "resource": "minemoji/imaybestupid"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "jumbo_mario",
+      "resource": "minemoji/jumbo_mario"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "cameron",
+      "resource": "minemoji/cameron"
+    },
+    {
+      "animated": false,
+      "snowflake": -1,
+      "emojiText": "bfthumbs",
+      "resource": "minemoji/bfthumbs"
+    }
+  ]
+}
